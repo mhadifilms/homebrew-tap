@@ -2,7 +2,7 @@ class Audiograb < Formula
   desc "Local macOS per-app audio capture CLI"
   homepage "https://github.com/mhadifilms/audiograb"
   url "https://github.com/mhadifilms/audiograb/releases/download/v0.1.0/audiograb-0.1.0-macos-arm64.tar.gz"
-  sha256 "182062e83e6b267fc3b4091a6871cfa240abdb631a7dc5e07bebe395f0e62136"
+  sha256 "b45489e74bd2de5769d855bf44fbf9ea3c0737c47d2ece080176ae1c427dc282"
   license "MIT"
 
   depends_on macos: :sonoma
