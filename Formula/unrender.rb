@@ -3,8 +3,8 @@ class Unrender < Formula
 
   desc "Reconstruct editor-friendly timelines from flattened final renders"
   homepage "https://github.com/mhadifilms/unrender"
-  url "https://github.com/mhadifilms/unrender/archive/refs/tags/v0.2.9.tar.gz"
-  sha256 "08203fbebb86ed0eddf7c178ad5207e213c51d5cc34982c21404f35e541a5f29"
+  url "https://github.com/mhadifilms/unrender/archive/refs/tags/v0.2.10.tar.gz"
+  sha256 "1d46df8ac735f322e88e6e9e8211e882050d8149ccdf894b67b0dffccf2a8d72"
   license "Apache-2.0"
 
   depends_on "ffmpeg"
