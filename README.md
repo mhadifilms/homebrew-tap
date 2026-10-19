@@ -19,11 +19,13 @@ brew install dvr
 | Formula | Description |
 |---------|-------------|
 | [`dvr`](Formula/dvr.rb) | The missing CLI and Python library for DaVinci Resolve. |
+| [`flock`](Formula/flock.rb) | Agent-first file transfer over QUIC/UDP with JSON events. |
 
 ## Direct install (no tap)
 
 ```bash
 brew install mhadifilms/tap/dvr
+brew install mhadifilms/tap/flock
 ```
 
 ## Contributing
