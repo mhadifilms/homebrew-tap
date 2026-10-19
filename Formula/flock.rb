@@ -7,22 +7,22 @@ class Flock < Formula
   on_macos do
     on_arm do
       url "https://github.com/mhadifilms/flock/releases/download/v0.1.0/flock_0.1.0_darwin_arm64.tar.gz"
-      sha256 "528e79d3472cfcfacba82b65291f706d2af49872fe921549875714ba802e6ab5"
+      sha256 "9df4e65f49ba0c6e5ee98ccd28fa063b8be551a7e5c38f3c058a67d3e5cd811d"
     end
     on_intel do
       url "https://github.com/mhadifilms/flock/releases/download/v0.1.0/flock_0.1.0_darwin_amd64.tar.gz"
-      sha256 "39d3576ee96fa25af949f916eba900a2908053e8c912a1357025cb141e7c8774"
+      sha256 "4711fbc501dc2871fcb863d58616a2c539f36c2a2f27445c15c421c49d55241a"
     end
   end
 
   on_linux do
     on_arm do
       url "https://github.com/mhadifilms/flock/releases/download/v0.1.0/flock_0.1.0_linux_arm64.tar.gz"
-      sha256 "969c83b649d6d62c00204438bf09828d0803060f7489f008edce809eeab92ad3"
+      sha256 "864d1b3cb5d608882e74a53a13828046319f50e59d978f207ccfba2e3d684847"
     end
     on_intel do
       url "https://github.com/mhadifilms/flock/releases/download/v0.1.0/flock_0.1.0_linux_amd64.tar.gz"
-      sha256 "4665d0b94f10d2c78e8f1bc5494a41fb77a006559af3367436de52a245f2e23c"
+      sha256 "9abab94ac445f691efacf76417949c583a3ca5aedce15fe4459313de6d71b96d"
     end
   end
 
